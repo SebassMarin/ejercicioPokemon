@@ -1,0 +1,14 @@
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\bin\Debug\net7.0\pokemon.exe
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\bin\Debug\net7.0\pokemon.deps.json
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\bin\Debug\net7.0\pokemon.runtimeconfig.json
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\bin\Debug\net7.0\pokemon.dll
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\bin\Debug\net7.0\pokemon.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.AssemblyInfo.cs
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.dll
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\refint\pokemon.dll
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\pokemon.genruntimeconfig.cache
+C:\Users\Sebastian Cuello\Desktop\projects\pokemon\obj\Debug\net7.0\ref\pokemon.dll
